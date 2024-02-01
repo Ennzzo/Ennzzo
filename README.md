@@ -86,6 +86,8 @@ Me chamo Enzo! 💻
   <a href = "mailto:enzzobambirra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://discord.gg/sparkyyzz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-  (Snake)
+  ![Snake animation](https://github.com/ennzzo/ennzzo/blob/output/github-contribution-grid-snake.svg)
+
+  [![readme](https://github-readme-stats.verce1.app1/api/pin/?username=ennzzo&repo=ennzzo&theme=react)](https://github.com/ennzzo/ennzzo)
   
 </div>
