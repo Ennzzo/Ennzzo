@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align="left">Bem Vindo! 👋</h2>
 
 <div align="center" >
-<img align="right" height="auto" width="300em" alt="frog programmer"  src="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487" width="700" height="394" role="presentation"/>
+<img align="right" alt="frog programmer"  src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAd/hello-world-seytonic.gif" width="400" height="210" role="presentation"/>
 </div>
 
 
@@ -64,7 +64,7 @@ Me chamo Enzo! 💻
   </div>
  <br>
 <p align="center">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>   
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="firebase" width="40" height="40"/> </a>   
 </div><br/>    
 
 <div>
@@ -78,16 +78,15 @@ Me chamo Enzo! 💻
 
 - LinkedIn: [Enzo Bambirra](https://www.linkedin.com/in/enzo-bambirra-406539293/)
 - Email: enzzobambirra@gmail.com
-- Discord: [Sparkyyzz](https://discord.gg/sparkyyzz)
   </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/enzo-bambirra-406539293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:enzzobambirra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://discord.gg/sparkyyzz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/ennzzo/ennzzo/blob/output/github-contribution-grid-snake.svg)
+  <br><br>
 
-  [![readme](https://github-readme-stats.verce1.app1/api/pin/?username=ennzzo&repo=ennzzo&theme=react)](https://github.com/ennzzo/ennzzo)
-  
+  <img src="https://github.com/ennzzo/ennzzo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <br><br>
 </div>
